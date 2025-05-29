@@ -7,8 +7,6 @@ Este es el portafolio web de **Cristian Dev**, un desarrollador Full Stack espec
 
 ![Vista previa del portafolio](./assets/readme/review.jpg) <!-- Reemplaza con una imagen si tienes -->
 
-🔗 [Ver en línea](https://tusitio.com) <!-- Reemplaza con tu URL real -->
-
 ---
 
 ## 🚀 Tecnologías utilizadas
@@ -43,8 +41,8 @@ favicon.ico               # Ícono para navegador
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/CRISTIAN7712/portafolioAnimaciones-HTML-CSS.git
+cd portafolioAnimaciones-HTML-CSS
 ```
 
 ### 2. Abrir en navegador
